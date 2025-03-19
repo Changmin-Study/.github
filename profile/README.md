@@ -1,7 +1,8 @@
-# Changmin-Study.github
-## 📚 Changmin's STUDY repo list
+# 📚 Changmin's STUDY Repoitoty Organization
 #### These repos are about books and codes I have studied  alone.
 - 🚀 The repo on what I studied at the university will be updated later (someday.. ) !!
+
+
 ---
 
 ## 📊 Data Analysis
